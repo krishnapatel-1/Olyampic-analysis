@@ -1,4 +1,5 @@
 streamlit
+scipy>=1.0
 plotly
 seaborn
 matplotlib
