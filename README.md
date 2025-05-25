@@ -30,7 +30,7 @@ This Streamlit web app analyzes and visualizes Olympic medal data using Plotly.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/krishnapatel-1/Olyampic-analysis
+cd Olyampic-analysis
 pip install -r requirements.txt
 streamlit run app.py
