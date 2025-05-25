@@ -8,7 +8,7 @@ This Streamlit web app analyzes and visualizes Olympic medal data using Plotly.
 
 ## 📸 Screenshots
 
-<img src="C:\Users\patel\OneDrive\Pictures\Screenshots\Screenshot 2025-05-25 121454.png" width="600"/>
+<img src="Screenshot 2025-05-25 121454.png" width="600"/>
 
 
 ## 🛠️ Tech Stack
